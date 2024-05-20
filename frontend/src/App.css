@@ -1,0 +1,35 @@
+/* yt */
+/* @import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap"); */
+
+/* poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.App
+{
+    min-height: 100vh;
+    display: flex;
+    /* background-image: url("../whatsapp doodle/green.jpg"); */
+    background-image: url("../whatsapp doodle/cyan-green.jpg");
+    /* background-image: url("../whatsapp doodle/dark-green.jpg"); */
+    /* background-image: url("../whatsapp doodle/black.jpg"); */
+    /* background-image: url("../whatsapp doodle/green-doodle.jpg"); */
+    /* background-image: url("../whatsapp doodle/black-grad.jpg"); */
+    /* background-image: url("../whatsapp doodle/white.jpg"); */
+    /* background-size: cover; */
+    background-position: center;
+}
+
+::-webkit-scrollbar
+{
+    width: 0px;
+}
+
+::-webkit-scrollbar-thumb
+{
+    background: rgba(136, 136, 136, 0.281);
+}
+
+::-webkit-scrollbar-thumb:hover
+{
+    background: #555;
+}
